@@ -5,7 +5,12 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=katakarn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <h2>🏆 Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=katakarn&theme=radical" alt="trophy" />
+  </a>
+</div>
 
 ---
 
