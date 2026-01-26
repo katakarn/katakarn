@@ -6,6 +6,15 @@
 ---
 
 <div align="center">
+  <h2>🔥 Streak Stats</h2>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=katakarn&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
   <h2>🏆 Trophies</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=katakarn&theme=radical" alt="trophy" />
