@@ -23,7 +23,7 @@ jobs:
           github_user_name: katakarn
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00f5d4
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=facc15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
