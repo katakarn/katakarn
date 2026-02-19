@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=KATAKARN%20%2F%2F%20CYBER%20V3&fontSize=52&fontAlignY=38&fontColor=00F5D4&desc=TERMINAL%20DASHBOARD%20MODE%20%7C%20LIVE&descAlignY=60&descSize=18&animation=twinkling&color=0:020617,50:0B1220,100:111827" alt="cyber header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=Katakarn&fontSize=58&fontAlignY=38&fontColor=00F5D4&desc=TERMINAL%20DASHBOARD%20MODE%20%7C%20LIVE&descAlignY=60&descSize=18&animation=twinkling&color=0:020617,50:0B1220,100:111827" alt="cyber header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=980&lines=%3E+boot+dashboard+--profile+katakarn;%3E+load+modules+--all+systems+online;%3E+theme+inject+--cyber-v3" alt="typing terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=980&lines=%3E+boot+dashboard+--profile+Katakarn;%3E+load+modules+--all+systems+online;%3E+theme+inject+--cyber-v3" alt="typing terminal" />
 </p>
 
 ```text
-┌──[ root@katakarn ]──[ ~/cyber/dashboard ]
+┌──[ root@Katakarn ]──[ ~/cyber/dashboard ]
 └─$ status --live
 ```
 
