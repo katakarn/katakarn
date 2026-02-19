@@ -122,9 +122,8 @@
 <details>
   <summary><b>Power-up Switches</b></summary>
   <br/>
-  To enable every dynamic module, add repository secrets:
+  To enable every dynamic module:
   <br/>
-  <code>METRICS_TOKEN</code> for metrics generation.
-  <br/>
-  <code>WAKATIME_API_KEY</code> for WakaTime panel.
+  turn on Actions write permission and add
+  <code>WAKATIME_API_KEY</code> for the WakaTime panel.
 </details>
