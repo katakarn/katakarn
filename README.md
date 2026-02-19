@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=KATAKARN%20%2F%2F%20CYBER%20V2&fontSize=52&fontAlignY=38&fontColor=00F5D4&desc=NEON%20CORE%20%7C%20SYSTEM%20READY&descAlignY=60&descSize=18&animation=twinkling&color=0:020617,50:0B1220,100:111827" alt="cyber header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=KATAKARN%20%2F%2F%20CYBER%20V3&fontSize=52&fontAlignY=38&fontColor=00F5D4&desc=TERMINAL%20DASHBOARD%20MODE%20%7C%20LIVE&descAlignY=60&descSize=18&animation=twinkling&color=0:020617,50:0B1220,100:111827" alt="cyber header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=980&lines=%3E+init+profile+--theme+cyber-v2;%3E+sync+widgets+--status+stable;%3E+render+neon+dashboard" alt="typing terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=980&lines=%3E+boot+dashboard+--profile+katakarn;%3E+load+modules+--all+systems+online;%3E+theme+inject+--cyber-v3" alt="typing terminal" />
 </p>
+
+```text
+┌──[ root@katakarn ]──[ ~/cyber/dashboard ]
+└─$ status --live
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=for-the-badge&labelColor=0B1220" alt="status online" />
@@ -14,12 +19,30 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5d4,100:22d3ee" alt="divider" />
+</p>
+
+```text
+┌──[ module://tech-arsenal ]
+└─$ render --icons --theme neon
+```
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=TECH%20ARSENAL&fontSize=15&fontColor=00F5D4&color=0:0B1220,100:111827" alt="tech title" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?theme=dark&i=java,ts,js,python,spring,nestjs,docker,postgres,redis,linux,git,github&perline=12" alt="skills" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5d4,100:22d3ee" alt="divider" />
+</p>
+
+```text
+┌──[ module://metrics-matrix ]
+└─$ fetch --cards summary stats language productivity
+```
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katakarn&theme=tokyonight" alt="profile details" />
@@ -40,12 +63,26 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5d4,100:22d3ee" alt="divider" />
+</p>
+
+```text
+┌──[ module://activity-stream ]
+└─$ trace --contributions --yearly
+```
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=katakarn&bg_color=0b1220&color=00f5d4&line=22d3ee&point=e2e8f0&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5d4,100:22d3ee" alt="divider" />
 </p>
+
+```text
+┌──[ endpoint://contact ]
+└─$ connect --secure
+```
 
 <p align="center">
   <a href="https://github.com/katakarn">
