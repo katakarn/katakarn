@@ -10,6 +10,10 @@ on:
     paths:
       - ".github/workflows/metrics.yml"
 
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -34,6 +38,7 @@ jobs:
           plugin_lines: yes
 
   metrics-wakatime:
+    needs: metrics-base
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
