@@ -118,12 +118,3 @@
     <img src="https://img.shields.io/badge/Email-SEND_SIGNAL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EAB308" alt="Email" />
   </a>
 </p>
-
-<details>
-  <summary><b>Power-up Switches</b></summary>
-  <br/>
-  To enable every dynamic module:
-  <br/>
-  turn on Actions write permission and add
-  <code>WAKATIME_API_KEY</code> for the WakaTime panel.
-</details>
