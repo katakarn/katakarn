@@ -34,10 +34,12 @@ jobs:
           plugin_lines: yes
 
   metrics-wakatime:
-    if: ${{ secrets.WAKATIME_API_KEY != '' }}
     runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
       - name: Generate wakatime metrics card
+        if: ${{ env.WAKATIME_API_KEY != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -47,6 +49,10 @@ jobs:
           base: ""
           config_timezone: Asia/Bangkok
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_token: ${{ env.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, projects, editors, languages, os
+
+      - name: Skip WakaTime card (missing secret)
+        if: ${{ env.WAKATIME_API_KEY == '' }}
+        run: echo "WAKATIME_API_KEY is not set; keep placeholder card."
