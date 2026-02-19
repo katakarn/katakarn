@@ -13,12 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=katakarn&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=katakarn&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=06b6d4&text_color=e2e8f0" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katakarn&layout=compact&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=e2e8f0" alt="top langs" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,spring,nestjs,docker,postgres,redis,linux&perline=10" alt="skills" />
 </p>
 
 <p align="center">
@@ -31,6 +26,16 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katakarn&theme=github_dark" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katakarn&theme=github_dark" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katakarn&theme=github_dark" alt="repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katakarn&theme=github_dark" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katakarn&theme=github_dark&utcOffset=7" alt="productive time" />
 </p>
 
 <p align="center">
