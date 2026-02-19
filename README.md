@@ -1,36 +1,50 @@
-# Katakarn
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0ea5e9,100:06b6d4&text=KATAKARN&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=Code%20with%20style%20%7C%20Build%20with%20purpose&descAlignY=60" alt="header" />
+</p>
 
-Backend-focused software engineer building reliable APIs and services.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2300&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Backend+Engineer+with+Visual+Taste;Always+Building+Something+New" alt="typing animation" />
+</p>
 
-## About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=katakarn&style=for-the-badge&color=0ea5e9" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/katakarn?style=for-the-badge&logo=github&color=06b6d4" alt="followers" />
+  <img src="https://img.shields.io/github/stars/katakarn?style=for-the-badge&logo=github&color=0891b2" alt="stars" />
+</p>
 
-- Focus: backend development, API design, and system reliability
-- Main stack: Java (Spring Boot), JavaScript/TypeScript (NestJS), Python
-- Interests: clean architecture, testing, performance tuning, and developer productivity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=katakarn&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
+</p>
 
-## Featured Projects
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=katakarn&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=06b6d4&text_color=e2e8f0" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katakarn&layout=compact&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=e2e8f0" alt="top langs" />
+</p>
 
-| Project | Tech | What it solves | Link |
-| --- | --- | --- | --- |
-| Project A | Spring Boot, PostgreSQL, Docker | Scalable backend service with clean domain structure | Add link |
-| Project B | NestJS, Redis, Docker | Real-time API with caching and rate limiting | Add link |
-| Project C | Python, FastAPI | Automation tool for data processing workflows | Add link |
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=katakarn&hide_border=true&background=00000000&ring=0EA5E9&fire=06B6D4&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=0EA5E9&sideLabels=94A3B8&dates=94A3B8" alt="streak stats" />
+</p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katakarn&bg_color=0f172a&color=38bdf8&line=22d3ee&point=e2e8f0&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-- Languages: Java, TypeScript/JavaScript, Python
-- Frameworks: Spring Boot, NestJS
-- Tools: Docker, Postman, Git, Linux
-- Data: PostgreSQL, MySQL, Redis
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katakarn&theme=github_dark" alt="profile summary" />
+</p>
 
-## Currently Working On
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,100:0ea5e9" alt="divider" />
+</p>
 
-- Improving test quality and coverage for backend services
-- Designing production-ready CI/CD workflows
-- Building reusable templates for faster project setup
-
-## Contact
-
-- GitHub: [github.com/katakarn](https://github.com/katakarn)
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your email address
+<p align="center">
+  <a href="https://github.com/katakarn">
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
