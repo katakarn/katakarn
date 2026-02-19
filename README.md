@@ -49,11 +49,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/metrics-base.svg" alt="Metrics Base" />
+  <img src="./assets/metrics-base.svg?v=yb1" alt="Metrics Base" />
 </p>
 
 <p align="center">
-  <img src="./assets/metrics-wakatime.svg" alt="WakaTime Metrics" />
+  <img src="./assets/metrics-wakatime.svg?v=yb1" alt="WakaTime Metrics" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="./assets/snake-placeholder.svg" />
+    <img alt="Contribution Snake" src="./assets/snake-placeholder.svg?v=yb1" />
   </picture>
 </p>
 
@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=yb1" alt="3D Contribution Graph" />
 </p>
 
 <p align="center">
