@@ -17,19 +17,24 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  PROFILE_USERNAME: katakarn
+  PROFILE_TIMEZONE: Asia/Bangkok
+
 jobs:
   metrics-base:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Generate base metrics card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: katakarn
+          user: ${{ env.PROFILE_USERNAME }}
           filename: assets/metrics-base.svg
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Bangkok
+          config_timezone: ${{ env.PROFILE_TIMEZONE }}
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -40,6 +45,7 @@ jobs:
   metrics-wakatime:
     needs: metrics-base
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
@@ -48,11 +54,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: katakarn
+          user: ${{ env.PROFILE_USERNAME }}
           filename: assets/metrics-wakatime.svg
           template: classic
           base: ""
-          config_timezone: Asia/Bangkok
+          config_timezone: ${{ env.PROFILE_TIMEZONE }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ env.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7

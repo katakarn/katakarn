@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=Katakarn%20%7C%20Yellow%2FBlack&fontSize=48&fontAlignY=38&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=61&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Katakarn Yellow Black Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=Katakarn&fontSize=56&fontAlignY=38&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=61&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Katakarn Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2100&pause=700&color=FACC15&center=true&vCenter=true&width=980&lines=%3E+boot+--profile+Katakarn;%3E+attach+modules+--snake+3d+metrics+wakatime;%3E+render+--theme+yellow-black" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2100&pause=700&color=FACC15&center=true&vCenter=true&width=980&lines=%3E+boot+--profile+Katakarn;%3E+attach+modules+--snake+3d+metrics+wakatime;%3E+render+--dashboard+online" alt="Typing Banner" />
 </p>
 
 <p align="center">
