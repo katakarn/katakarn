@@ -53,10 +53,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/metrics-base.svg?v=yb1" alt="Metrics Base" />
-</p>
-
-<p align="center">
   <img src="./assets/metrics-wakatime.svg?v=yb1" alt="WakaTime Metrics" />
 </p>
 
@@ -87,11 +83,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="./assets/snake-placeholder.svg?v=yb1" />
-  </picture>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
@@ -103,27 +95,15 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/FACC15/katakarn" alt="Golden Contribution Chart" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ARCADE%20MODE&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Arcade Mode Title" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph.svg" />
-  </picture>
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph.svg" />
-    <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph.svg" />
-  </picture>
+  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph-dark.svg" />
 </p>
 
 <p align="center">
