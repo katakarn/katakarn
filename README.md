@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=290&text=Katakarn&fontSize=56&fontAlignY=38&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=61&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Katakarn Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=290&text=Katakarn&fontSize=56&fontAlignY=30&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=48&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Katakarn Header" />
 </p>
 
 <p align="center">
@@ -83,7 +83,11 @@
 </p>
 
 <p align="center">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="./assets/snake-placeholder.svg?v=yb1" />
+  </picture>
 </p>
 
 <p align="center">
@@ -92,18 +96,6 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=yb1" alt="3D Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ARCADE%20MODE&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Arcade Mode Title" />
-</p>
-
-<p align="center">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph-dark.svg" />
-</p>
-
-<p align="center">
-  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph-dark.svg" />
 </p>
 
 <p align="center">
