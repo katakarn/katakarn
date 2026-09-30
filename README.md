@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0A&textColor=%23FACC15&aColor=%23F8FAFC&borderColor=%23EAB308&hideBorder" alt="Dev Joke" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,100:EAB308" alt="Divider" />
 </p>
 
@@ -54,6 +58,10 @@
 
 <p align="center">
   <img src="./assets/metrics-wakatime.svg?v=yb1" alt="WakaTime Metrics" />
+</p>
+
+<p align="center">
+  <img src="./assets/metrics-toys.svg?v=yb1" alt="Achievements, Code Snippet and Fortune" />
 </p>
 
 <p align="center">
@@ -99,11 +107,27 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ACTIVITY%20STREAM&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Activity Stream Title" />
+  <img src="https://ghchart.rshah.org/FACC15/katakarn" alt="Golden Contribution Chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katakarn&bg_color=0A0A0A&color=FACC15&line=EAB308&point=FEF3C7&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ARCADE%20MODE&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Arcade Mode Title" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph.svg" />
+    <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/katakarn/katakarn/output/breakout-contribution-graph.svg" />
+  </picture>
 </p>
 
 <p align="center">

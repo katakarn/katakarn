@@ -23,7 +23,7 @@ env:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - name: Generate contribution snake assets
         uses: Platane/snk/svg-only@v3
@@ -34,6 +34,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=facc15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Same job as snake: the publish step replaces the whole output branch.
+      - name: Generate arcade assets (pacman, breakout)
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ env.PROFILE_USERNAME }}
+          games: pacman,breakout
 
       - name: Publish snake assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
