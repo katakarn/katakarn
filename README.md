@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=yb1" alt="Katakarn Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=Katakarn&fontSize=56&fontAlignY=38&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=61&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Katakarn Header" />
 </p>
 
 <p align="center">
@@ -19,10 +19,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote Card" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0A&textColor=%23FACC15&aColor=%23F8FAFC&borderColor=%23EAB308&hideBorder" alt="Dev Joke" />
 </p>
 
 <p align="center">
@@ -50,6 +46,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=METRICS%20DASHBOARD&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Metrics Dashboard Title" />
+</p>
+
+<p align="center">
+  <img src="./assets/metrics-base.svg?v=yb1" alt="Metrics Base" />
 </p>
 
 <p align="center">
@@ -99,7 +99,15 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&section=footer&color=0:000000,40:0a0a0a,100:171717" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ACTIVITY%20STREAM&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Activity Stream Title" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katakarn&bg_color=0A0A0A&color=FACC15&line=EAB308&point=FEF3C7&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,40:0a0a0a,100:171717" alt="Footer Wave" />
 </p>
 
 <p align="center">
