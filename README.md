@@ -99,14 +99,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ACTIVITY%20STREAM&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Activity Stream Title" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katakarn&bg_color=0A0A0A&color=FACC15&line=EAB308&point=FEF3C7&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,40:0a0a0a,100:171717" alt="Footer Wave" />
 </p>
 

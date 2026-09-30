@@ -27,9 +27,10 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Generate base metrics card
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # METRICS_TOKEN: PAT with read:user + repo; GITHUB_TOKEN only sees this repo.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: ${{ env.PROFILE_USERNAME }}
           filename: assets/metrics-base.svg
           template: classic
@@ -44,6 +45,7 @@ jobs:
 
   metrics-wakatime:
     needs: metrics-base
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
@@ -51,7 +53,7 @@ jobs:
     steps:
       - name: Generate wakatime metrics card
         if: ${{ env.WAKATIME_API_KEY != '' }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ env.PROFILE_USERNAME }}
