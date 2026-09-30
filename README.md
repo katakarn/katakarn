@@ -61,10 +61,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/metrics-toys.svg?v=yb1" alt="Achievements, Code Snippet and Fortune" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katakarn&theme=github_dark" alt="Profile Details" />
 </p>
 
