@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=290&text=Katakarn&fontSize=56&fontAlignY=30&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=48&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Katakarn Header" />
+  <img src="./assets/header.svg?v=yb1" alt="Katakarn Header" />
 </p>
 
 <p align="center">
